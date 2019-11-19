@@ -1,11 +1,7 @@
-# bilibili-audience-subtitle-scrapping-audience-subtitle-scrapping-with-selenium---B彈幕爬取-
+# bilibili-audience-subtitle-scrapping-audience-subtitle-scrapping-with-selenium---B站彈幕爬取-
 Scrapping bilibili audience subtitle with use of selenium, pyautogui
 
 
-
-#  bilibili-audience-subtitle-scrapping-audience-subtitle-scrapping-with-selenium---B彈幕爬取-
- bilibili-audience-subtitle-scrapping-audience-subtitle-scrapping-with-selenium B彈幕爬取-
- 
  Before starting , make sure you have following installed :
  
     pip install pyautogui
